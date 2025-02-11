@@ -1,5 +1,5 @@
 mv SwordScheme.colors ~/.local/share/color-schemes/
-SwordProfile.profile ~/.local/share/konsole/
-
+mv SwordProfile.profile ~/.local/share/konsole/
+mv kxkbrc ~/.config
 #применение цветовой схемы
 plasma-apply-colorscheme SwordScheme
