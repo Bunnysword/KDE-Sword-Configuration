@@ -1,6 +1,6 @@
 mkdir ~/.local/share/color-schemes
 mv SwordScheme.colors ~/.local/share/color-schemes/
-mv Sword Profile.profile ~/.local/share/konsole/
+mv swordprofile.profile ~/.local/share/konsole/
 mv WhiteOnBlack.colorscheme ~/.local/share/konsole/
 mv kxkbrc ~/.config
 mv kcm-about-distrorc ~/.config/kdedefaults/
