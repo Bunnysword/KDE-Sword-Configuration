@@ -1,5 +1,5 @@
 mkdir ~/.local/share/color-schemes
-mv SwordScheme.colors ~/.local/share/color-schemes/
+mv SwordColors.colors ~/.local/share/color-schemes/
 mv swordprofile.profile ~/.local/share/konsole/
 mv WhiteOnBlack.colorscheme ~/.local/share/konsole/
 mv kcm-about-distrorc ~/.config/kdedefaults/
