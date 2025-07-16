@@ -8,4 +8,4 @@ wget https://raw.githubusercontent.com/Bunnysword/Confiles/refs/heads/main/conf/
 mkdir ~/.config/fastfetch && wget https://raw.githubusercontent.com/Bunnysword/Confiles/refs/heads/main/conf/kde/config.jsonc && mv config.jsonc ~/.config/fastfetch/
 wget https://raw.githubusercontent.com/Bunnysword/Confiles/refs/heads/main/conf/kde/bugs.png && mv bugs.png ~/.config/fastfetch/
 #применение цветовой схемы
-plasma-apply-colorscheme SwordScheme
+plasma-apply-colorscheme SwordColors
